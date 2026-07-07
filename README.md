@@ -21,6 +21,28 @@ Praticar Engenharia de Prompts para extração de conhecimento
 
 O NotebookLM foi utilizado para organizar os principais conceitos em um mapa mental.
 ![](https://github.com/mari19-coder/Projeto-BTS-notebooklm/blob/main/NotebookLM%20Mind%20Map.png)
+
+Os sete integrantes do BTS desempenharam papéis fundamentais na transformação do grupo, que saiu de uma **empresa pequena e à beira da falência** para se tornar um fenômeno global. De acordo com as fontes, a história do sucesso do grupo está intrinsecamente ligada às personalidades, talentos individuais e à **autonomia artística** de cada membro.
+
+### Os Integrantes e suas Trajetórias Individuais
+Cada membro trouxe um background único que moldou a identidade do grupo:
+
+*   **RM (Kim Namjoon):** Foi o primeiro integrante selecionado e é o líder do grupo. Antes do BTS, ele era um rapper underground conhecido como "Runch Randa". Ele é o único membro com inglês fluente (aprendido com a série *Friends*) e atua frequentemente como intérprete do grupo. É um dos principais compositores, com mais de 231 músicas creditadas.
+*   **Suga (Min Yoongi):** Também veio do cenário underground e entrou na Big Hit inicialmente como produtor, sendo convencido a se tornar um idol sob a promessa de que não precisaria dançar. Conhecido por sua personalidade introvertida e por ser um produtor respeitado, ele possui 169 músicas creditadas.
+*   **J-Hope (Jung Hoseok):** Era um dançarino de rua renomado em sua cidade natal antes da estreia. Conhecido como o "raio de sol" do grupo por sua extroversão, ele é extremamente rigoroso com a disciplina na dança, ajudando os outros membros nas coreografias.
+*   **Jin (Kim Seokjin):** Estudava artes escênicas e foi recrutado na rua por sua aparência. Conhecido pelo apelido "Worldwide Handsome", ele utiliza o humor e o autoproclamado status de "superstar" para deixar as pessoas ao seu redor mais à vontade.
+*   **Jimin (Park Jimin):** Foi o último a entrar no grupo após apenas seis meses de treinamento. Com formação em dança contemporânea, ele é destacado por sua versatilidade vocal e pelo "Efeito Jimin", que descreve seu forte carisma e impacto sobre o público.
+*   **V (Kim Taehyung):** Aprendeu saxofone na infância e acompanhou um amigo em uma audição, acabando por ser selecionado também. Possui uma voz barítona rara no K-pop e é descrito como um amante das artes e do jazz.
+*   **Jungkook (Jeon Jungkook):** Entrou na empresa com apenas 14 anos após ser disputado por sete agências, escolhendo a Big Hit por admirar o rap de RM. Chamado de "Golden Maknae" (caçula de ouro), ele é talentoso em canto, dança, esportes e artes visuais.
+
+### O Contexto Histórico e o Caminho para o Sucesso
+As fontes indicam que o sucesso do BTS não foi instantâneo, mas sim fruto de uma **"história real de resistência"**. Nos primeiros anos, o grupo enfrentou dificuldades financeiras severas, dividindo um único quarto pequeno e customizando suas próprias roupas por falta de verba. Diferente de grupos das grandes empresas (a "Big 3"), o BTS não tinha privilégios ou apoio massivo da mídia no início.
+
+A virada na carreira ocorreu quando o grupo passou a abordar temas como **saúde mental, pressões sociais e amor-próprio**, o que gerou uma conexão profunda com o fandom **ARMY**. Essa sinceridade artística, onde os próprios membros coescrevem e produzem seu material, permitiu que eles superassem barreiras culturais e linguísticas.
+
+### Legado e Retorno em 2026
+Após um hiato para o serviço militar obrigatório, o grupo consolidou seu legado com o lançamento do álbum ***Arirang*** em março de 2026. O sucesso contínuo, incluindo a performance na final da **Copa do Mundo FIFA de 2026**, reafirma que o diferencial do BTS reside na união desses sete talentos que, segundo as fontes, aprenderam a ser uma família antes de serem uma banda global.
+
 ## 📊 Infográfico
 
 Como entrega visual do projeto foi elaborado um infográfico resumindo toda a trajetória do grupo.
