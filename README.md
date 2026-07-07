@@ -20,11 +20,11 @@ Praticar Engenharia de Prompts para extração de conhecimento
 ## 🧠 Mapa Mental
 
 O NotebookLM foi utilizado para organizar os principais conceitos em um mapa mental.
-
+![](
 ## 📊 Infográfico
 
 Como entrega visual do projeto foi elaborado um infográfico resumindo toda a trajetória do grupo.
-
+![](https://github.com/mari19-coder/Projeto-BTS-notebooklm/blob/main/Do_Deserto_ao_Legado_Global.png)
 # 📚 Curadoria de Fontes
 
 Foram selecionadas fontes abertas em texto e vídeo para alimentar o NotebookLM e servir de base para as análises realizadas. 
